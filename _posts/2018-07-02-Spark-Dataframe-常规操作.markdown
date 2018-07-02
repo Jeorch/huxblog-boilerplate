@@ -4,7 +4,7 @@ title:      "Spark Dataframe 一些常规操作"
 subtitle:   " \"Hello Spark, Hello Dataframe\""
 date:       2018-07-02 16:00:00
 author:     "Jeorch"
-header-img: "img/post-bg-saprk-dataframe.jpg"
+header-img: "img/post-bg-spark-dataframe.jpg"
 catalog: true
 tags:
     - Spark
