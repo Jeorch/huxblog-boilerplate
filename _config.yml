@@ -12,11 +12,11 @@ baseurl: "/jeorch-blog"         # for example, '/blog' if your blog hosted on 'h
 
 # SNS settings
 RSS: false
-weibo_username:     Jeorch
-zhihu_username:     Jeorch
+weibo_username:     2749215743
+zhihu_username:     jeorch
 github_username:    Jeorch
 #twitter_username:  Jeorch
-facebook_username:  Jeorch
+facebook_username:  jeorch.zhang
 
 
 
@@ -66,7 +66,7 @@ netease_comment: false
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "写写代码，做做设计，看看产品。世界那么大，多玩玩看看。"
-sidebar-avatar: /img/avatar-hux.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /jeorch-blog/img/jeorch.jpeg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 

@@ -1,0 +1,17 @@
+---
+layout:     post
+title:      "Welcome to Jeorch Blog"
+subtitle:   " \"Hello World, Hello Blog\""
+date:       2018-07-02 12:00:00
+author:     "Jeorch"
+header-img: "img/post-bg-2018.jpg"
+tags:
+    - 生活
+---
+
+> “Yeah It's on. ”
+
+
+## 前言
+
+Jeorch 的 Blog 就这么开通了。
