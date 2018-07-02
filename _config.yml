@@ -49,6 +49,9 @@ kramdown:
 # Disqus settings
 disqus_username: zhangpoxiao
 
+# Netease settings
+netease_comment: false
+
 
 
 # Analytics settings
