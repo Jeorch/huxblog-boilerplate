@@ -5,13 +5,28 @@ subtitle:   " \"Hello World, Hello Blog\""
 date:       2018-07-02 12:00:00
 author:     "Jeorch"
 header-img: "img/post-bg-2018.jpg"
+catalog: true
 tags:
     - 生活
 ---
 
-> “Yeah It's on. ”
+> “Yeah It's Jeorch. ”
 
 
 ## 前言
 
-Jeorch 的 Blog 就这么开通了。
+Jeorch 的 Blog 开通了!
+
+搭建博客的方式是使用 GitHub Pages + jekyll 的方式。
+
+*参考博文[利用 GitHub Pages 快速搭建个人博客](https://www.jianshu.com/p/e68fba58f75c)*
+
+## 正文
+
+很久以前就想写博客了，真的讨厌说自己懒，但是还是得说！
+
+碰到的问题：Disqus评论模块不好用。
+
+## 待办
+  - 评论模块Disqus目前不好用，使用GitTalk替换，或其他解决方案。
+  - 域名加https，有必要的话
