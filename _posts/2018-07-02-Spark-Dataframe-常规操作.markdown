@@ -10,6 +10,7 @@ tags:
     - Spark
     - Dataframe
     - 大数据
+    - Scala
 ---
 
 > “Yeah It's Spark. ”
@@ -113,3 +114,6 @@ tags:
 
         round可以对列值规范数据精度：
         round(e: Column, scale: Int)
+
+## 用户自定的UDF和UDAF
+*将在另一篇博文中单独介绍*

@@ -79,19 +79,13 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 # Friends
 friends: [
     {
-        title: "Hux-Blog",
+        title: "老齐的博文",
+        href: "https://www.cnblogs.com/clockq"
+    },{
+        title: "黄玄的博文",
         href: "http://huangxuan.me"
     },{
-        title: "Foo",
-        href: "#"
-    },{
-        title: "Bar",
-        href: "#"
-    },{
-        title: "Example Friends",
-        href: "#"
-    },{
-        title: "It helps SEO",
-        href: "#"
+        title: "hongjiang的scala博文",
+        href: "https://hongjiang.info/scala/"
     }
 ]
