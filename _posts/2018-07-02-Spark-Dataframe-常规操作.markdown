@@ -99,7 +99,8 @@ tags:
         eg:
         max_df.join(city_df, max_df("city") === city_df("city"), "left")
 
-## 一些常用的Column操作[when|otherwise|concat|substring|round]
+## 一些常用的Column操作
+*[when|otherwise|concat|substring|round]*
 
         when函数常和otherwise搭配使用:
         when(condition: Column, value: Any).otherwise(value: Any)
