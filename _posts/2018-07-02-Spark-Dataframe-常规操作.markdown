@@ -51,15 +51,15 @@ tags:
   - || 短路或　只要当前项为真，它也不往后判断了，直接认为表达式为真
 
 实战代码：
-*过滤max数据中f_units和f_sales均不为零的数据集，使用下面的操作，却得到了f_units不等于零f_sales有等于零的错误数据集*
+*过滤max数据中f_units或f_sales不为零的数据集，使用下面的操作，却得到了f_units不等于零的数据，缺少了部分f_sales不等于零f_units等于零的数据：*
 
-        max_df
-            .withColumn("temp_tag", when($"f_units" =!= 0 and $"f_sales" =!= 0, 1).otherwise(0))
-            .filter($"temp_tag" === 1)
+        max_df.filter($"f_units" =!= 0 or $"f_sales" =!= 0)
 
 *解决方法：利用withColumn和when函数结合，创建一个tag标签列来划分数据集*
 
-        max_df.filter($"f_units" =!= 0 and $"f_sales" =!= 0)
+        max_df
+            .withColumn("temp_tag", when($"f_units" === 0 and $"f_sales" === 0, 0).otherwise(1))
+            .filter($"temp_tag" === 1)
 
 *PS: where 等同于 filter*
 

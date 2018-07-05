@@ -116,6 +116,6 @@ ModuleMirror用来访问单例Object，使用reflectModule(ModuleSymbol)
 
 获取Module的用Type的termSymbol再asModule
 
-感谢fair_jm前辈的总结，要是仅看官网还是不能很好的理解scala运行时反射，英语阅读水平！！！@老王@老齐@老钱！快！一起学英语！
+感谢fair_jm前辈的总结，要是仅看官网还是不能很好的理解scala运行时反射，英语阅读水平！！！
 
 *参考：[scala运行时反射简单介绍](http://fair-jm.iteye.com/blog/2163746)*
