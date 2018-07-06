@@ -4,7 +4,7 @@ title:      "Java实现鸭子类型机制【转载】"
 subtitle:   " \"动态类型\""
 date:       2018-07-05 18:00:00
 author:     "Jeorch"
-header-img: "img/post-bg-scala.jpg"
+header-img: "img/post-bg-java.jpg"
 catalog: false
 tags:
     - Java
