@@ -5,7 +5,7 @@ subtitle:   " \"Scrum Review\""
 date:       2018-07-06 13:00:00
 author:     "Jeorch"
 header-img: "img/post-bg-scrum.jpg"
-catalog: false
+catalog: true
 tags:
     - Scrum
 ---
