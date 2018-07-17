@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Scrum Review Max_v3.0.0"
+title:      "Docker背后的内核知识-namespace-cgroups"
 subtitle:   " \"Scrum Review\""
 date:       2018-07-06 13:00:00
 author:     "Jeorch"
