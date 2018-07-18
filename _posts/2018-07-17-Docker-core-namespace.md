@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Docker背后的内核知识-namespace-cgroups"
-subtitle:   " \"Scrum Review\""
+subtitle:   " \"Docker namespace\""
 date:       2018-07-17 18:00:00
 author:     "Jeorch"
 header-img: "img/post-bg-docker.jpg"
