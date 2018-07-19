@@ -47,7 +47,18 @@ kramdown:
 
 
 # Disqus settings
-disqus_username: zhangpoxiao
+# disqus_username: zhangpoxiao
+
+# Gitalk
+gitalk:
+  enable: true    #是否开启Gitalk评论
+  clientID: 076fbc9ee6d56847820d                            #生成的clientID
+  clientSecret: 1bdb6d8b3b3d605552c6819d15057a8d284c9328    #生成的clientSecret
+  repo: jeorch-blog    #仓库名称
+  owner: Jeorch    #github用户名
+  admin: Jeorch
+  distractionFreeMode: true #是否启用类似FB的阴影遮罩
+
 
 # Netease settings
 netease_comment: false
