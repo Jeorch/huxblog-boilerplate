@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: zhangpoxiao@gmail.com
 description: ""
 keyword: ""
-url: "http://jeorch.top"              # your host, for absolute URL
+url: "http://jeorch.github.io"              # your host, for absolute URL
 baseurl: "/jeorch-blog"         # for example, '/blog' if your blog hosted on 'host/blog'
 
 
