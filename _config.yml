@@ -56,9 +56,9 @@ gitalk:
   clientSecret: 1bdb6d8b3b3d605552c6819d15057a8d284c9328    #生成的clientSecret
   repo: jeorch-blog    #仓库名称
   owner: Jeorch    #github用户名
-  admin: Jeorch
+  admin: [Jeorch]
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
-
+  id: 'window.location.pathname'
 
 # Netease settings
 netease_comment: false
