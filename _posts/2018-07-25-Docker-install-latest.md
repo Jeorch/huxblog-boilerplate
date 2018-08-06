@@ -17,7 +17,7 @@ tags:
 
 ## 前言
 
-最近在CentOS 7上安装了docker后，用了一阵子后，发现docker版本不是最新的，用的yum安装的，并且安装前进行了yum update，结果安装后的docker版本是1.13.x的，而最新版本已经到了18.06了。
+最近在CentOS 7上安装了docker后，用了一阵子后，发现docker版本不是最新的，用的yum安装的，并且安装前进行了yum update，结果安装后的docker版本是1.13.x的，而最新版本(2018.07.25)已经到了18.06了。
 
 ## 正文
 
@@ -55,4 +55,4 @@ docker --version
 docker info
 ```
 ## 参考
- - (Centos环境docker的正确安装及疑难杂症)[http://www.mamicode.com/info-detail-2342582.html]
+ - [Centos环境docker的正确安装及疑难杂症](http://www.mamicode.com/info-detail-2342582.html)
